@@ -208,6 +208,7 @@ function parte2(valor){
 // }
 
 function parte3(valor){
+    
     var hojaudio = document.getElementById('hojaudio');
     hojaudio.play();
     $("#hoja").css("z-index", "1");
